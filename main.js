@@ -12,7 +12,7 @@ function changeWord(word) {
 
     
     const clickedButton = event.target; 
-    clickedButton.style.backgroundColor = "#cae6ce"; 
+    clickedButton.style.backgroundColor = "#ADEDB3"; 
     clickedButton.style.transform = "rotate(360deg)"; 
   
 }
