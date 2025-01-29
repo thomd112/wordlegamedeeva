@@ -36,7 +36,7 @@ function moveButtonRandomly(button) {
 
 const buttons = document.querySelectorAll('.primary-box button');
 buttons.forEach(button => {
-    setInterval(() => moveButtonRandomly(button), 2000);  
+    setInterval(() => moveButtonRandomly(button), 3000);  
 });
 
 
